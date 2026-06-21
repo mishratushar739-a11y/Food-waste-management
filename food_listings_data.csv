@@ -1,0 +1,151 @@
+food_id,food_name,quantity,expiry_date,provider_id,provider_type,location,food_type,meal_type
+1,Paneer Tikka,119,2026-07-04,28,Bakery,North David,Vegetarian,Snacks
+2,Fruits Basket,197,2026-06-23,29,Bakery,North David,Vegan,Dinner
+3,Cereal Boxes,165,2026-06-23,34,Restaurant,South Robert,Non-Vegetarian,Snacks
+4,Milk Packets,65,2026-06-24,5,Catering Service,Port Sarah,Non-Vegetarian,Dinner
+5,Pasta,40,2026-06-22,35,Catering Service,Richardfort,Vegetarian,Snacks
+6,Soup,21,2026-06-26,10,Supermarket,Port Sarah,Non-Vegetarian,Dinner
+7,Canned Beans,111,2026-06-20,35,Catering Service,Richardfort,Vegetarian,Snacks
+8,Noodles,183,2026-06-20,25,Supermarket,Lake Christopher,Vegan,Snacks
+9,Rice,95,2026-06-24,31,Restaurant,West Jennifer,Non-Vegetarian,Snacks
+10,Paneer Tikka,159,2026-07-04,35,Catering Service,Richardfort,Vegetarian,Snacks
+11,Fruits Basket,116,2026-06-27,15,Bakery,New Michael,Vegetarian,Snacks
+12,Biryani,190,2026-06-22,22,Grocery Store,Jameschester,Non-Vegetarian,Lunch
+13,Paneer Tikka,11,2026-07-04,40,Bakery,Jameschester,Non-Vegetarian,Breakfast
+14,Pizza Slices,39,2026-07-03,6,Restaurant,West Jennifer,Non-Vegetarian,Lunch
+15,Fruits Basket,102,2026-06-25,4,Catering Service,East Amanda,Vegetarian,Snacks
+16,Dal,199,2026-07-04,21,Restaurant,Richardfort,Non-Vegetarian,Dinner
+17,Fruits Basket,25,2026-06-27,27,Restaurant,Lake Jessica,Vegetarian,Breakfast
+18,Sandwiches,171,2026-06-21,23,Restaurant,North David,Vegan,Breakfast
+19,Sandwiches,56,2026-07-03,2,Bakery,Richardfort,Vegetarian,Lunch
+20,Chicken Curry,126,2026-06-30,16,Restaurant,New Michael,Vegetarian,Lunch
+21,Fruits Basket,99,2026-06-22,30,Restaurant,South Robert,Vegan,Breakfast
+22,Milk Packets,32,2026-06-29,11,Bakery,North David,Vegetarian,Dinner
+23,Biryani,106,2026-07-01,37,Bakery,West Jennifer,Vegetarian,Breakfast
+24,Sandwiches,31,2026-07-01,38,Bakery,Lake Christopher,Non-Vegetarian,Breakfast
+25,Bread,93,2026-06-28,37,Bakery,West Jennifer,Non-Vegetarian,Dinner
+26,Eggs,170,2026-06-25,5,Catering Service,Port Sarah,Vegetarian,Snacks
+27,Vegetable Curry,115,2026-06-25,32,Grocery Store,South Robert,Vegan,Snacks
+28,Pizza Slices,50,2026-07-01,10,Supermarket,Port Sarah,Vegan,Dinner
+29,Paneer Tikka,128,2026-06-27,40,Bakery,Jameschester,Non-Vegetarian,Dinner
+30,Sandwiches,27,2026-06-24,21,Restaurant,Richardfort,Non-Vegetarian,Lunch
+31,Noodles,161,2026-06-30,30,Restaurant,South Robert,Non-Vegetarian,Dinner
+32,Cereal Boxes,88,2026-06-22,2,Bakery,Richardfort,Non-Vegetarian,Lunch
+33,Fruits Basket,92,2026-06-24,23,Restaurant,North David,Vegan,Dinner
+34,Rice,137,2026-06-23,36,Supermarket,Port Sarah,Vegetarian,Lunch
+35,Cereal Boxes,147,2026-07-02,27,Restaurant,Lake Jessica,Vegetarian,Snacks
+36,Canned Beans,9,2026-06-21,32,Grocery Store,South Robert,Non-Vegetarian,Lunch
+37,Sandwiches,83,2026-06-30,26,Grocery Store,Jameschester,Vegan,Dinner
+38,Paneer Tikka,140,2026-06-25,31,Restaurant,West Jennifer,Non-Vegetarian,Dinner
+39,Canned Beans,74,2026-06-24,23,Restaurant,North David,Non-Vegetarian,Lunch
+40,Soup,85,2026-06-21,8,Bakery,Lake Jessica,Vegan,Lunch
+41,Soup,194,2026-06-27,13,Restaurant,North David,Non-Vegetarian,Dinner
+42,Soup,80,2026-06-23,7,Catering Service,South Robert,Non-Vegetarian,Lunch
+43,Rice,186,2026-06-28,20,Bakery,New Michael,Vegetarian,Dinner
+44,Bread,146,2026-06-24,3,Bakery,Port Sarah,Vegan,Lunch
+45,Vegetable Curry,8,2026-06-29,32,Grocery Store,South Robert,Non-Vegetarian,Snacks
+46,Canned Beans,92,2026-06-22,31,Restaurant,West Jennifer,Vegetarian,Dinner
+47,Vegetable Curry,21,2026-06-26,31,Restaurant,West Jennifer,Non-Vegetarian,Breakfast
+48,Bread,43,2026-06-22,37,Bakery,West Jennifer,Vegan,Dinner
+49,Sandwiches,35,2026-06-28,6,Restaurant,West Jennifer,Non-Vegetarian,Lunch
+50,Biryani,120,2026-07-04,34,Restaurant,South Robert,Non-Vegetarian,Dinner
+51,Pizza Slices,83,2026-06-29,38,Bakery,Lake Christopher,Vegan,Breakfast
+52,Vegetable Curry,200,2026-06-23,40,Bakery,Jameschester,Vegan,Lunch
+53,Pasta,45,2026-06-23,17,Catering Service,East Amanda,Vegetarian,Breakfast
+54,Rice,109,2026-06-27,11,Bakery,North David,Vegan,Snacks
+55,Bread,64,2026-06-24,19,Restaurant,Lake Jessica,Vegan,Dinner
+56,Pasta,180,2026-06-23,30,Restaurant,South Robert,Non-Vegetarian,Lunch
+57,Vegetable Curry,144,2026-06-23,28,Bakery,North David,Vegan,Lunch
+58,Chicken Curry,23,2026-06-20,18,Bakery,East Amanda,Vegetarian,Dinner
+59,Noodles,78,2026-06-27,39,Bakery,Lake Jessica,Vegetarian,Snacks
+60,Biryani,74,2026-06-28,20,Bakery,New Michael,Vegan,Snacks
+61,Pasta,158,2026-06-20,29,Bakery,North David,Non-Vegetarian,Dinner
+62,Fruits Basket,11,2026-06-21,39,Bakery,Lake Jessica,Vegetarian,Breakfast
+63,Noodles,15,2026-07-02,18,Bakery,East Amanda,Vegetarian,Snacks
+64,Canned Beans,76,2026-06-22,34,Restaurant,South Robert,Vegan,Snacks
+65,Pasta,125,2026-06-25,32,Grocery Store,South Robert,Non-Vegetarian,Dinner
+66,Vegetable Curry,46,2026-06-25,21,Restaurant,Richardfort,Non-Vegetarian,Snacks
+67,Biryani,199,2026-06-28,19,Restaurant,Lake Jessica,Vegetarian,Snacks
+68,Dal,69,2026-06-25,6,Restaurant,West Jennifer,Vegetarian,Snacks
+69,Rice,173,2026-07-03,33,Grocery Store,Lake Christopher,Vegan,Snacks
+70,Bread,53,2026-06-28,27,Restaurant,Lake Jessica,Non-Vegetarian,Snacks
+71,Bread,57,2026-06-24,29,Bakery,North David,Vegan,Lunch
+72,Canned Beans,183,2026-06-27,19,Restaurant,Lake Jessica,Vegetarian,Breakfast
+73,Sandwiches,186,2026-06-22,39,Bakery,Lake Jessica,Non-Vegetarian,Breakfast
+74,Pizza Slices,28,2026-06-23,36,Supermarket,Port Sarah,Vegetarian,Snacks
+75,Chicken Curry,132,2026-07-04,8,Bakery,Lake Jessica,Vegan,Dinner
+76,Fruits Basket,111,2026-07-03,33,Grocery Store,Lake Christopher,Non-Vegetarian,Snacks
+77,Canned Beans,146,2026-06-22,16,Restaurant,New Michael,Non-Vegetarian,Lunch
+78,Eggs,196,2026-07-04,39,Bakery,Lake Jessica,Vegetarian,Breakfast
+79,Pizza Slices,92,2026-07-04,18,Bakery,East Amanda,Vegan,Dinner
+80,Milk Packets,190,2026-06-24,1,Restaurant,Port Sarah,Vegan,Snacks
+81,Canned Beans,142,2026-06-27,10,Supermarket,Port Sarah,Non-Vegetarian,Dinner
+82,Paneer Tikka,101,2026-06-27,36,Supermarket,Port Sarah,Non-Vegetarian,Lunch
+83,Noodles,103,2026-06-23,16,Restaurant,New Michael,Non-Vegetarian,Breakfast
+84,Cereal Boxes,185,2026-07-04,21,Restaurant,Richardfort,Non-Vegetarian,Snacks
+85,Cereal Boxes,14,2026-06-22,10,Supermarket,Port Sarah,Vegan,Dinner
+86,Canned Beans,30,2026-06-28,7,Catering Service,South Robert,Non-Vegetarian,Breakfast
+87,Pizza Slices,172,2026-06-22,10,Supermarket,Port Sarah,Vegetarian,Snacks
+88,Dal,164,2026-07-01,17,Catering Service,East Amanda,Non-Vegetarian,Breakfast
+89,Paneer Tikka,102,2026-06-25,22,Grocery Store,Jameschester,Vegan,Snacks
+90,Bread,163,2026-06-21,35,Catering Service,Richardfort,Vegetarian,Dinner
+91,Pasta,116,2026-06-21,15,Bakery,New Michael,Vegan,Breakfast
+92,Salad,182,2026-06-24,29,Bakery,North David,Vegetarian,Breakfast
+93,Bread,80,2026-06-25,21,Restaurant,Richardfort,Non-Vegetarian,Snacks
+94,Sandwiches,140,2026-06-26,10,Supermarket,Port Sarah,Vegan,Lunch
+95,Salad,25,2026-06-29,11,Bakery,North David,Non-Vegetarian,Lunch
+96,Noodles,41,2026-06-23,32,Grocery Store,South Robert,Non-Vegetarian,Dinner
+97,Fruits Basket,175,2026-06-20,30,Restaurant,South Robert,Non-Vegetarian,Dinner
+98,Salad,23,2026-06-27,35,Catering Service,Richardfort,Non-Vegetarian,Dinner
+99,Fruits Basket,121,2026-07-03,28,Bakery,North David,Non-Vegetarian,Lunch
+100,Cereal Boxes,32,2026-06-23,25,Supermarket,Lake Christopher,Non-Vegetarian,Dinner
+101,Milk Packets,184,2026-06-24,37,Bakery,West Jennifer,Vegetarian,Snacks
+102,Rice,149,2026-07-03,18,Bakery,East Amanda,Vegan,Breakfast
+103,Cereal Boxes,78,2026-07-02,39,Bakery,Lake Jessica,Vegetarian,Dinner
+104,Soup,163,2026-06-24,15,Bakery,New Michael,Vegan,Lunch
+105,Bread,84,2026-07-02,7,Catering Service,South Robert,Non-Vegetarian,Breakfast
+106,Chapati,192,2026-06-22,38,Bakery,Lake Christopher,Vegetarian,Dinner
+107,Pizza Slices,49,2026-06-23,21,Restaurant,Richardfort,Vegetarian,Dinner
+108,Eggs,74,2026-07-03,34,Restaurant,South Robert,Vegetarian,Dinner
+109,Milk Packets,196,2026-07-03,31,Restaurant,West Jennifer,Non-Vegetarian,Breakfast
+110,Pasta,41,2026-07-02,30,Restaurant,South Robert,Vegetarian,Snacks
+111,Chapati,28,2026-07-02,36,Supermarket,Port Sarah,Non-Vegetarian,Breakfast
+112,Paneer Tikka,36,2026-06-27,17,Catering Service,East Amanda,Non-Vegetarian,Dinner
+113,Biryani,168,2026-06-25,38,Bakery,Lake Christopher,Vegetarian,Lunch
+114,Rice,163,2026-07-04,31,Restaurant,West Jennifer,Vegan,Dinner
+115,Sandwiches,170,2026-06-21,40,Bakery,Jameschester,Vegan,Snacks
+116,Pizza Slices,34,2026-06-22,20,Bakery,New Michael,Vegetarian,Breakfast
+117,Cereal Boxes,34,2026-06-21,20,Bakery,New Michael,Vegetarian,Lunch
+118,Canned Beans,99,2026-06-30,25,Supermarket,Lake Christopher,Vegan,Snacks
+119,Chicken Curry,111,2026-06-30,38,Bakery,Lake Christopher,Vegetarian,Snacks
+120,Pizza Slices,76,2026-06-20,40,Bakery,Jameschester,Vegan,Dinner
+121,Canned Beans,118,2026-06-23,14,Grocery Store,Lake Christopher,Non-Vegetarian,Breakfast
+122,Paneer Tikka,170,2026-06-25,24,Bakery,Port Sarah,Vegetarian,Snacks
+123,Soup,36,2026-07-03,18,Bakery,East Amanda,Non-Vegetarian,Breakfast
+124,Cookies,10,2026-06-20,14,Grocery Store,Lake Christopher,Non-Vegetarian,Lunch
+125,Noodles,57,2026-06-21,9,Supermarket,Lake Jessica,Vegan,Lunch
+126,Soup,64,2026-06-25,38,Bakery,Lake Christopher,Vegetarian,Breakfast
+127,Chicken Curry,38,2026-06-28,18,Bakery,East Amanda,Non-Vegetarian,Lunch
+128,Rice,38,2026-06-20,8,Bakery,Lake Jessica,Non-Vegetarian,Lunch
+129,Dal,9,2026-06-22,38,Bakery,Lake Christopher,Non-Vegetarian,Breakfast
+130,Pizza Slices,139,2026-06-21,9,Supermarket,Lake Jessica,Vegan,Breakfast
+131,Canned Beans,97,2026-06-28,31,Restaurant,West Jennifer,Vegan,Breakfast
+132,Eggs,61,2026-06-29,29,Bakery,North David,Vegetarian,Dinner
+133,Rice,20,2026-06-27,30,Restaurant,South Robert,Non-Vegetarian,Snacks
+134,Cereal Boxes,187,2026-07-04,7,Catering Service,South Robert,Non-Vegetarian,Breakfast
+135,Dal,160,2026-06-22,6,Restaurant,West Jennifer,Vegetarian,Lunch
+136,Cookies,167,2026-06-29,18,Bakery,East Amanda,Vegan,Dinner
+137,Cookies,140,2026-06-24,25,Supermarket,Lake Christopher,Non-Vegetarian,Snacks
+138,Vegetable Curry,172,2026-06-30,7,Catering Service,South Robert,Vegan,Lunch
+139,Canned Beans,63,2026-06-26,28,Bakery,North David,Non-Vegetarian,Snacks
+140,Pizza Slices,191,2026-06-21,26,Grocery Store,Jameschester,Non-Vegetarian,Snacks
+141,Fruits Basket,100,2026-06-22,21,Restaurant,Richardfort,Vegan,Snacks
+142,Pasta,26,2026-06-21,5,Catering Service,Port Sarah,Non-Vegetarian,Breakfast
+143,Chicken Curry,147,2026-06-20,24,Bakery,Port Sarah,Vegan,Dinner
+144,Pizza Slices,95,2026-07-03,8,Bakery,Lake Jessica,Vegan,Snacks
+145,Milk Packets,158,2026-06-24,4,Catering Service,East Amanda,Non-Vegetarian,Breakfast
+146,Eggs,59,2026-06-22,37,Bakery,West Jennifer,Vegan,Snacks
+147,Vegetable Curry,94,2026-07-03,15,Bakery,New Michael,Vegan,Dinner
+148,Fruits Basket,151,2026-06-23,8,Bakery,Lake Jessica,Non-Vegetarian,Breakfast
+149,Fruits Basket,12,2026-06-22,39,Bakery,Lake Jessica,Non-Vegetarian,Dinner
+150,Chapati,6,2026-06-22,22,Grocery Store,Jameschester,Vegetarian,Snacks
