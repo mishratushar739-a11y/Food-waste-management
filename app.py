@@ -79,7 +79,7 @@ def get_connection_params():
         "host": secrets_mysql.get("host", os.environ.get("MYSQL_HOST", "localhost")),
         "port": secrets_mysql.get("port", os.environ.get("MYSQL_PORT", 3306)),
         "user": secrets_mysql.get("user", os.environ.get("MYSQL_USER", "root")),
-        "password": secrets_mysql.get("password", os.environ.get("MYSQL_PASSWORD", "Makhla@712245")),
+        "password": secrets_mysql.get("password", os.environ.get("MYSQL_PASSWORD", "")),
         "database": secrets_mysql.get("database", os.environ.get("MYSQL_DATABASE", "food_wastage_db")),
     }
 
